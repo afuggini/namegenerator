@@ -4,5 +4,15 @@
   "description": "Javascript version of Moby's name generator @ https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go",
   "main": "index.js",
   "author": "Ariel Fuggini",
-  "license": "ISC"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/afuggini/namegenerator",
+  "keywords": [
+    "random",
+    "name",
+    "word",
+    "generator"
+  ]
 }
