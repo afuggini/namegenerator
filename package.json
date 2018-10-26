@@ -1,0 +1,8 @@
+{
+  "name": "@afuggini/namegenerator",
+  "version": "0.1.0",
+  "description": "Javascript version of Moby's name generator @ https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go",
+  "main": "index.js",
+  "author": "Ariel Fuggini",
+  "license": "ISC"
+}
