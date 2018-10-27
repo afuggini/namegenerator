@@ -1,6 +1,8 @@
 # Random Name Generator
 
-Zero-dependencies Javascript version of https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
+Zero-dependencies Javascript version of Docker's random container name generator.
+
+Based on: https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
 
 ## Install
 

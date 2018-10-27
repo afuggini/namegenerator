@@ -1,7 +1,7 @@
 {
   "name": "@afuggini/namegenerator",
-  "version": "0.1.2",
-  "description": "Javascript version of Moby's name generator @ https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go",
+  "version": "0.1.3",
+  "description": "Zero-dependencies Javascript version of Docker's random container name generator.",
   "main": "index.js",
   "author": "Ariel Fuggini",
   "license": "MIT",
@@ -13,6 +13,7 @@
     "random",
     "name",
     "word",
-    "generator"
+    "generator",
+    "docker"
   ]
 }
